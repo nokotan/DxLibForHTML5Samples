@@ -31,17 +31,17 @@ DxLibアプリをHTML5に出力する試み
 
 ![MegaDeath](http://qpic.jp/games/402ede0faa1f78ffa77971a7ed7493b7/参考画面だよ.png)
 
-- HTML5版: <https://nokotan.github.io/MegaDeath/index.html>
+- HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/MegaDeath/index.html>
 - Windows, MacOS版: <http://www.qpic.jp/new/works/games/187>
 
 ### EscapeSPY
 
-- HTML5版: <https://nokotan.github.io/EscapeSPY/index.html>
+- HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/EscapeSPY/index.html>
 - Windows, MacOS版: (準備中)
 
 ### ももぐり
 
 ![momo](http://qpic.jp/games/097c2d12eea3c652e88b0cc27bbb2258/ScreenShot.png)
 
-- HTML5版: <https://nokotan.github.io/momo/index.html>
+- HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/momo/index.html>
 - Windows, MacOS版: <http://www.qpic.jp/new/works/games/178>
