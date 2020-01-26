@@ -45,3 +45,8 @@ DxLibアプリをHTML5に出力する試み
 
 - HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/momo/index.html>
 - Windows, MacOS版: <http://www.qpic.jp/new/works/games/178>
+
+### 神の名は。
+
+- HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/GodName/index.html>
+- Windows, MacOS版: (準備中)
