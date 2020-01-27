@@ -23,8 +23,7 @@ DxLibアプリをHTML5に出力する試み
 ## Sample Games
 
 - 公開しているものすべて, DxLibアプリからHTML5へのの仕上がりを誰もが確認できるようにするためのものです.予告なく削除することもありますことをご了承願います.
-- Safari, Google Chromeでは音が出ません (仕様です)
-- FireFox, Microsoft Edgeでは音が出るようです
+- 最初にキャンバス(黒い画面)を一度クリックするとゲームが起動します (音が鳴るようにするため)
 - それ以外のブラウザ, およびWebGLに対応していないデバイスはサポート外です
 
 ### MegaDeath
@@ -50,3 +49,10 @@ DxLibアプリをHTML5に出力する試み
 
 - HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/GodName/index.html>
 - Windows, MacOS版: (準備中)
+
+### 厄災の魔王
+
+![厄災の魔王](http://qpic.jp/games/2c8420ee238e14f5c4dbad076d3d36e9/厄災の魔王.png)
+
+- HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/Disaster/index.html>
+- Windows, MacOS版: <http://www.qpic.jp/new/works/games/137>
