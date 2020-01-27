@@ -54,5 +54,5 @@ DxLibアプリをHTML5に出力する試み
 
 ![厄災の魔王](http://qpic.jp/games/2c8420ee238e14f5c4dbad076d3d36e9/厄災の魔王.png)
 
-- HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/Disaster/index.html>
+- HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/Disaster/>
 - Windows, MacOS版: <http://www.qpic.jp/new/works/games/137>
