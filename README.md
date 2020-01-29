@@ -56,3 +56,8 @@ DxLibアプリをHTML5に出力する試み
 
 - HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/Disaster/>
 - Windows, MacOS版: <http://www.qpic.jp/new/works/games/137>
+
+### 図書館りんご戦争
+
+- HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/LibraryAppleWar/index.html>
+- Windows, MacOS版: (準備中)
