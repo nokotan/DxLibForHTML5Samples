@@ -65,4 +65,4 @@ DxLibアプリをHTML5に出力する試み
 
 ### DxLibの3Dアクションサンプルプログラム
 
-- HTML5版 (本家DxLib): <https://nokotan.github.io/DxLibToHTML5Test/DxLibSampleTest/index>
+- HTML5版 (本家DxLib): <https://nokotan.github.io/DxLibToHTML5Test/DxLibSampleTest/DxLibHTML5Test.html>
