@@ -1,4 +1,4 @@
-# DxLibToHTML5Test
+# DxLibForHTML5Samples
 
 DxLibアプリをHTML5に出力する試み
 
@@ -28,41 +28,41 @@ DxLibアプリをHTML5に出力する試み
 
 ### MegaDeath
 
-![MegaDeath](http://qpic.jp/games/402ede0faa1f78ffa77971a7ed7493b7/参考画面だよ.png)
+![MegaDeath](https://qpic.jp/wp-content/uploads/2020/04/E58F82E88083E794BBE99DA2E381A0E38288.png)
 
-- HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/MegaDeath/index>
-- Windows, MacOS版: <http://www.qpic.jp/new/works/games/187>
+- HTML5版: <https://nokotan.github.io/DxLibForHTML5Samples/MegaDeath/index>
+- Windows, MacOS版: <https://qpic.jp/game/megadeath-in-the-night-メガデス・イン・ザ・ナイト-for-windows-mac-os-x/>
 
 ### EscapeSPY
 
-- HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/EscapeSPY/index>
+- HTML5版: <https://nokotan.github.io/DxLibForHTML5Samples/EscapeSPY/index>
 - Windows, MacOS版: (準備中)
 
 ### ももぐり
 
-![momo](http://qpic.jp/games/097c2d12eea3c652e88b0cc27bbb2258/ScreenShot.png)
+![momo](https://qpic.jp/wp-content/uploads/2020/04/ScreenShot.png)
 
-- HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/momo/index>
-- Windows, MacOS版: <http://www.qpic.jp/new/works/games/178>
+- HTML5版: <https://nokotan.github.io/DxLibForHTML5Samples/momo/index>
+- Windows, MacOS版: <https://qpic.jp/game/ももぐり-for-windows-mac-os-x/>
 
 ### 神の名は。
 
-- HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/GodName/index>
+- HTML5版: <https://nokotan.github.io/DxLibForHTML5Samples/GodName/index>
 - Windows, MacOS版: (準備中)
 
 ### 厄災の魔王
 
-![厄災の魔王](http://qpic.jp/games/2c8420ee238e14f5c4dbad076d3d36e9/厄災の魔王.png)
+![厄災の魔王](https://qpic.jp/wp-content/uploads/2020/04/E58E84E781BDE381AEE9AD94E78E8B.png)
 
-- HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/Disaster/index>
-- HTML5版 (本家DxLib): <https://nokotan.github.io/DxLibToHTML5Test/DisasterDxLib/index>
-- Windows, MacOS版: <http://www.qpic.jp/new/works/games/137>
+- HTML5版: <https://nokotan.github.io/DxLibForHTML5Samples/Disaster/index>
+- HTML5版 (本家DxLib): <https://nokotan.github.io/DxLibForHTML5Samples/DisasterDxLib/index>
+- Windows, MacOS版: <https://qpic.jp/game/厄災の魔王/>
 
 ### 図書館りんご戦争
 
-- HTML5版: <https://nokotan.github.io/DxLibToHTML5Test/LibraryAppleWar/index>
+- HTML5版: <https://nokotan.github.io/DxLibForHTML5Samples/LibraryAppleWar/index>
 - Windows, MacOS版: (準備中)
 
 ### DxLibの3Dアクションサンプルプログラム
 
-- HTML5版 (本家DxLib): <https://nokotan.github.io/DxLibToHTML5Test/DxLibSampleTest/DxLibHTML5Test.html>
+- HTML5版 (本家DxLib): <https://nokotan.github.io/DxLibForHTML5Samples/DxLibSampleTest/DxLibHTML5Test.html>
